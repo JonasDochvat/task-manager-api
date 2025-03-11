@@ -44,6 +44,7 @@ target/
 *.iml
 .mvn/
 *.properties # Se tiver credenciais, evite versioná-los
+/src/main/resources/application.properties
 
 # Arquivos e pastas do front-end (Angular)
 node_modules/
